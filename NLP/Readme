@@ -1,0 +1,5 @@
+Small NLP project. Used naive bayes and random forest with TFid tokenizer. Results are satisfied me , You can find different techniques in this notebook.
+
+Visualized confision matrix of best performing model at the end. 
+
+I hope you enjoy.
